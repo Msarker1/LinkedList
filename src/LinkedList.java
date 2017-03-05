@@ -15,7 +15,6 @@ public class LinkedList{
 			First = n;
 
 		
-		
 		}
 		else{ 
 			Last.setNext(n);}
